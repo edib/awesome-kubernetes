@@ -1,2 +1,2 @@
 # awesome-kubernetes
-Found Many Kubernetes Tools
+Found Awesome Kubernetes Tools
